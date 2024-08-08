@@ -18,11 +18,11 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=drum-machine&theme=highcontrast" />
+<a href="https://github.com/Bieldodesign/DrumMachine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=DrumMachine&theme=highcontrast" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=Quote-Machine&theme=highcontrast" />
+<a href="https://github.com/Bieldodesign/videos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=videos&theme=highcontrast" />
 </a>
 <a href="https://github.com/Bieldodesign/portifolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=Portifolio&theme=highcontrast" />
