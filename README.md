@@ -9,7 +9,7 @@
 - 🔭 Atualmente disponeivel para trabalho;<br>
 - 🌱 Estudando React + WebGL;<br>
 - 👯 Busco oportunidade para colaborar no desenvolvimentos de aplicações web;<br>
- 📫 Contateme em: <a href="mailto:bieldodesign@gmail.com">bieldodesign@gmail.com</a>;
+ 📫 Contate-me em: <a href="mailto:bieldodesign@gmail.com">bieldodesign@gmail.com</a>;
 </div>
 <br>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
