@@ -25,5 +25,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=Quote-Machine&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=portifolioe&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bieldesign&repo=portifolio&theme=highcontrast" />
 </a>
