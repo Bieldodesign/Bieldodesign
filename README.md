@@ -18,9 +18,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
 </a>
-<a href="https://github.com/Bieldodesign/DrumMachine">
+<!--<a href="https://github.com/Bieldodesign/DrumMachine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=DrumMachine&theme=highcontrast" />
-</a>
+</a>-->
 <a href="https://github.com/Bieldodesign/videos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=videos&theme=highcontrast" />
 </a>
