@@ -6,15 +6,15 @@
 - 👯 I’m looking to collaborate on Web aplications;<br>
 - 📫 Contact me at: <a href="mailto:bieldodesign@gmail.com">bieldodesign@gmail.com</a>;
 </div><br><div>
-- 🔭 Atualmente disponeivl para trabalho;<br>
+- 🔭 Atualmente disponeivel para trabalho;<br>
 - 🌱 Estudando React + WebGL;<br>
 - 👯 Busco oportunidade para colaborar no desenvolvimentos de aplicações web;<br>
  📫 Contateme em: <a href="mailto:bieldodesign@gmail.com">bieldodesign@gmail.com</a>;
 </div>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bieldesign&theme=highcontrast" />
-</a>
+</a>-->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
 </a>
