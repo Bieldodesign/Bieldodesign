@@ -15,11 +15,10 @@
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bieldesign&theme=highcontrast" />
 </a>-->
-
-<div>
- <a href="https://github.com/anuraghazra/convoychat">
+ <a href="https://github.com/Bieldodesign">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bieldesign&layout=compact&langs_count=8&card_width=300&theme=highcontrast" />
 </a>
+<div>
 <!--<a href="https://github.com/Bieldodesign/DrumMachine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bieldodesign&repo=DrumMachine&theme=highcontrast" />
 </a>-->
